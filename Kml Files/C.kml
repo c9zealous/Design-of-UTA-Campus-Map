@@ -1,0 +1,1488 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>UTA Section C</name>
+	<open>1</open>
+	<Style id="failed98">
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="failed68">
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin67">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed61</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed91</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin20">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed12</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin00</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed62">
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin68">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed62</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed96</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed93">
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="failed610">
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/bus.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="failed96">
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="failed7">
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin65">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed6</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed90</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed6">
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="failed64">
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin00</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed5">
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ff55</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin69">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed64</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed98</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed10">
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="failed11">
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin00">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ff55</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed14</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed8">
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="failed9">
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="failed92">
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed13</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="failed63">
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl1">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/bus.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="failed65">
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin00">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ffff</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="failed61">
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin7">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl00</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed7</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin10">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin62">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed66</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed95</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin66">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed68</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed93</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed90">
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="failed">
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="failed13">
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="failed99">
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="failed97">
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="failed0">
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin60">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed60</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed92</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed66">
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="failed95">
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed8</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed4">
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed10</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed11</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed1">
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_grn-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="failed14">
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="failed2">
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_grn-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin10">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_grn-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grn-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grn-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="failed910">
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin64">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed65</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed99</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed12">
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="failed60">
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl00">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed69">
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="failed67">
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="failed94">
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin610">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed69</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed97</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed63</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed9</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed91">
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="failed3">
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin63">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed610</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed910</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ffff</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin61">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed67</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed94</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Folder>
+		<name>Polygons</name>
+		<Placemark>
+			<name>C_TimberBrook_Parking</name>
+			<styleUrl>#m_ylw-pushpin2</styleUrl>
+			<ExtendedData>
+				<Data name="gtype">
+					<value>On-campus Parking</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-97.11938188036578,32.73281100816572,0 -97.11913004945866,32.73280897630876,0 -97.11912945330577,32.73383191442691,0 -97.11920787511224,32.73383296159123,0 -97.11955199692979,32.73384215450911,0 -97.11956006765193,32.733353401915,0 -97.11936879917312,32.73334574086957,0 -97.11938188036578,32.73281100816572,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>C_TimberBrook_400</name>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<ExtendedData>
+				<Data name="gtype">
+					<value>On-campus Housing</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-97.1195415023636,32.7339219999044,0 -97.11954027668079,32.73389473130407,0 -97.11951344577277,32.73389305002444,0 -97.11948310331079,32.73389423498284,0 -97.11948048543091,32.73392171309266,0 -97.11935318823895,32.73392204882581,0 -97.11934616970424,32.73389693055483,0 -97.11931667579482,32.73389700764346,0 -97.11929037323333,32.73389545726892,0 -97.11929473817946,32.73391980764781,0 -97.11916720919575,32.73391582535633,0 -97.11916475968027,32.73411218596392,0 -97.11927090421611,32.73410772166018,0 -97.11928023688714,32.73409223670828,0 -97.11927778170809,32.73413442301794,0 -97.11931421057066,32.7341385226581,0 -97.11934048058394,32.73413815364523,0 -97.11934601945217,32.73410072205924,0 -97.11947787938738,32.73410119274227,0 -97.11947883822437,32.73413654168677,0 -97.11951100331078,32.7341393069328,0 -97.11954714674654,32.73413690992398,0 -97.11954150336509,32.73410090418101,0 -97.11965217015109,32.73411544439185,0 -97.11965659299108,32.73392303120347,0 -97.1195415023636,32.7339219999044,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>C_TimberBrook_402</name>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<ExtendedData>
+				<Data name="gtype">
+					<value>On-campus Housing</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-97.11976316271333,32.73369438730704,0 -97.1197699062446,32.73379013041099,0 -97.119747049384,32.73379577098847,0 -97.11974789111196,32.73382816557181,0 -97.11974492034257,32.73384154876419,0 -97.11977193608593,32.73384313448808,0 -97.11976800133014,32.73396079164213,0 -97.11974942846598,32.73396118135437,0 -97.11974974877143,32.73398842969687,0 -97.11974860523266,32.7340079028324,0 -97.11977082830811,32.7340092438483,0 -97.1197547721727,32.7341074608001,0 -97.11998818151237,32.73411191833461,0 -97.11998535270183,32.7340088768386,0 -97.12002399504056,32.73400579593386,0 -97.1200190659002,32.733980919066,0 -97.12002621412809,32.73395588474283,0 -97.1199962953941,32.73394942795991,0 -97.11997994866847,32.73384790343317,0 -97.12003132907113,32.73384407032061,0 -97.1200310388199,32.73381906337109,0 -97.12002667947873,32.73379236739601,0 -97.11998050468748,32.73380077320478,0 -97.12000290579587,32.73369508499697,0 -97.11976316271333,32.73369438730704,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>C_TimberBrook_404</name>
+			<LookAt>
+				<longitude>-97.11974294327162</longitude>
+				<latitude>32.73346177170976</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>45</tilt>
+				<range>1000</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<ExtendedData>
+				<Data name="gtype">
+					<value>On-campus Housing</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-97.11962673027803,32.73324653660165,0 -97.11963137654996,32.7333434815651,0 -97.11960995806466,32.73334675624017,0 -97.11961268035684,32.73336513007867,0 -97.1196122872712,32.73339675430374,0 -97.11963151221661,32.73339737440558,0 -97.11963355747737,32.73351166500063,0 -97.11960743993311,32.73351033520583,0 -97.11960543752591,32.73353943258427,0 -97.11960562980005,32.73356380262928,0 -97.11962898666839,32.73356255363228,0 -97.11962353374535,32.73367415713367,0 -97.11985404447674,32.73367700681787,0 -97.11984597340761,32.73355531559666,0 -97.11988729723184,32.7335623362121,0 -97.11988980990817,32.73353532959399,0 -97.11988731407139,32.73350416048137,0 -97.11984840242069,32.73350784084447,0 -97.11985061931786,32.73339129371337,0 -97.11988690438444,32.73339410251348,0 -97.11988948723926,32.73337123982115,0 -97.11988945102837,32.73334425133523,0 -97.11985150994894,32.73334480361774,0 -97.11986357170498,32.73324966895407,0 -97.11962673027803,32.73324653660165,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>C_TimberBrook_408</name>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<ExtendedData>
+				<Data name="gtype">
+					<value>On-campus Housing</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-97.11973166716781,32.73278418099165,0 -97.11949775413173,32.73277077524892,0 -97.11950246526543,32.73288253017976,0 -97.11948258960246,32.7328832496442,0 -97.11948235947152,32.73291214285599,0 -97.11948351289689,32.73293805427139,0 -97.11950380444762,32.73293624571938,0 -97.11950238748675,32.73305173318664,0 -97.11948368122746,32.73305197188513,0 -97.11948015271494,32.73307442389486,0 -97.11947731187775,32.73310269914543,0 -97.11950163865923,32.73310648131765,0 -97.11949711565592,32.73320353790599,0 -97.11972919790509,32.73320937638929,0 -97.11972380960705,32.73310827630728,0 -97.11974694777503,32.73310916948343,0 -97.11974795554471,32.7330506618272,0 -97.11971564057215,32.73304945923002,0 -97.11972203681104,32.73293741840188,0 -97.11975333039892,32.7329380768599,0 -97.11974895026275,32.73288570983558,0 -97.11971943913321,32.73288828005292,0 -97.11972803422754,32.7328842777733,0 -97.11973166716781,32.73278418099165,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>C_TimberBrook_410</name>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<ExtendedData>
+				<Data name="gtype">
+					<value>On-campus Housing</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-97.11958846578227,32.73253979452259,0 -97.1194771143374,32.73253453069917,0 -97.11948531586258,32.73251507034141,0 -97.11945699763807,32.73251458247973,0 -97.11942186894638,32.73251682096659,0 -97.11941955811435,32.73253274947141,0 -97.11927928375764,32.73253306589299,0 -97.11927886981421,32.73250871251228,0 -97.11925207154003,32.73250883260927,0 -97.11921864549458,32.73250794731418,0 -97.11921701049602,32.73253267392271,0 -97.11910397958344,32.73253234503376,0 -97.11910240276929,32.73271309302895,0 -97.11921529588099,32.73271740149401,0 -97.11921928560955,32.73273934381142,0 -97.11925462260861,32.73273851553331,0 -97.11928462752915,32.73274044492679,0 -97.11927510063883,32.73272288946809,0 -97.11941265424798,32.73271419167676,0 -97.11941041489415,32.7327400433317,0 -97.1194547140163,32.73274402605519,0 -97.11948127240365,32.73274454166626,0 -97.11947036646427,32.73272464842587,0 -97.11958292725824,32.73272636070223,0 -97.11958846578227,32.73253979452259,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>Placemarks</name>
+		<Placemark>
+			<name>C_TimberBrook_400_E1</name>
+			<LookAt>
+				<longitude>-97.11931421057066</longitude>
+				<latitude>32.7341385226581</latitude>
+				<altitude>0</altitude>
+				<heading>-5.727391855257818e-006</heading>
+				<tilt>0</tilt>
+				<range>98.99303411074578</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin7</styleUrl>
+			<ExtendedData>
+				<Data name="gtype">
+					<value>Entrance</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-97.11931421057066,32.7341385226581,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>C_TimberBrook_400_E2</name>
+			<LookAt>
+				<longitude>-97.11951100331078</longitude>
+				<latitude>32.7341393069328</latitude>
+				<altitude>2.969867371766506</altitude>
+				<heading>-0.0001459417295858246</heading>
+				<tilt>0</tilt>
+				<range>95.96541643011575</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin7</styleUrl>
+			<ExtendedData>
+				<Data name="gtype">
+					<value>Entrance</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-97.11951100331078,32.7341393069328,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>C_TimberBrook_400_E3</name>
+			<LookAt>
+				<longitude>-97.11951344577277</longitude>
+				<latitude>32.73389305002444</latitude>
+				<altitude>0</altitude>
+				<heading>-0.00012642182505439</heading>
+				<tilt>0</tilt>
+				<range>99.18347413321527</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin7</styleUrl>
+			<ExtendedData>
+				<Data name="gtype">
+					<value>Entrance</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-97.11951344577277,32.73389305002444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>C_TimberBrook_400_E4</name>
+			<LookAt>
+				<longitude>-97.11931667579482</longitude>
+				<latitude>32.73389700764346</latitude>
+				<altitude>0</altitude>
+				<heading>-0.00012642182505439</heading>
+				<tilt>0</tilt>
+				<range>99.18347413321527</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin7</styleUrl>
+			<ExtendedData>
+				<Data name="gtype">
+					<value>Entrance</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-97.11931667579482,32.73389700764346,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>C_TimberBrook_402_E1</name>
+			<LookAt>
+				<longitude>-97.11974974877143</longitude>
+				<latitude>32.73398842969687</latitude>
+				<altitude>0</altitude>
+				<heading>-0.000289984852749583</heading>
+				<tilt>0</tilt>
+				<range>99.50557019017413</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin7</styleUrl>
+			<ExtendedData>
+				<Data name="gtype">
+					<value>Entrance</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-97.11974974877143,32.73398842969687,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>C_TimberBrook_402_E2</name>
+			<LookAt>
+				<longitude>-97.11974789111196</longitude>
+				<latitude>32.73382816557181</latitude>
+				<altitude>0</altitude>
+				<heading>-0.000289984852749583</heading>
+				<tilt>0</tilt>
+				<range>99.50557019017413</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin7</styleUrl>
+			<ExtendedData>
+				<Data name="gtype">
+					<value>Entrance</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-97.11974789111196,32.73382816557181,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>C_TimberBrook_404_E1</name>
+			<LookAt>
+				<longitude>-97.11960543752591</longitude>
+				<latitude>32.73353943258427</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0001817982914694966</heading>
+				<tilt>0</tilt>
+				<range>99.71450027442765</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin7</styleUrl>
+			<ExtendedData>
+				<Data name="gtype">
+					<value>Entrance</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-97.11960543752591,32.73353943258427,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>C_TimberBrook_404_E2</name>
+			<LookAt>
+				<longitude>-97.11961268035684</longitude>
+				<latitude>32.73336513007867</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0001817982914694966</heading>
+				<tilt>0</tilt>
+				<range>99.71450027442765</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin7</styleUrl>
+			<ExtendedData>
+				<Data name="gtype">
+					<value>Entrance</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-97.11961268035684,32.73336513007867,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>C_TimberBrook_408_E1</name>
+			<LookAt>
+				<longitude>-97.11948015271494</longitude>
+				<latitude>32.73307442389486</latitude>
+				<altitude>0</altitude>
+				<heading>-11.52369405366949</heading>
+				<tilt>0</tilt>
+				<range>100.9221863429658</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin7</styleUrl>
+			<ExtendedData>
+				<Data name="gtype">
+					<value>Entrance</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-97.11948015271494,32.73307442389486,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>C_TimberBrook_408_E2</name>
+			<LookAt>
+				<longitude>-97.11948235947152</longitude>
+				<latitude>32.73291214285599</latitude>
+				<altitude>0</altitude>
+				<heading>-11.52369405366949</heading>
+				<tilt>0</tilt>
+				<range>100.9221863429658</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin7</styleUrl>
+			<ExtendedData>
+				<Data name="gtype">
+					<value>Entrance</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-97.11948235947152,32.73291214285599,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>C_TimberBrook_410_E1</name>
+			<LookAt>
+				<longitude>-97.1194547140163</longitude>
+				<latitude>32.73274402605519</latitude>
+				<altitude>0</altitude>
+				<heading>-11.52369405366949</heading>
+				<tilt>0</tilt>
+				<range>100.9221863429658</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin7</styleUrl>
+			<ExtendedData>
+				<Data name="gtype">
+					<value>Entrance</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-97.1194547140163,32.73274402605519,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>C_TimberBrook_410_E2</name>
+			<LookAt>
+				<longitude>-97.11925462260861</longitude>
+				<latitude>32.73273851553331</latitude>
+				<altitude>0.864927160403386</altitude>
+				<heading>-22.52358247415198</heading>
+				<tilt>16.53243990294561</tilt>
+				<range>81.29532915074393</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin7</styleUrl>
+			<ExtendedData>
+				<Data name="gtype">
+					<value>Entrance</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-97.11925462260861,32.73273851553331,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>C_TimberBrook_ShuttleStop</name>
+			<LookAt>
+				<longitude>-97.11921272239772</longitude>
+				<latitude>32.73373931435086</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0009986501216481063</heading>
+				<tilt>29.84094255129616</tilt>
+				<range>41.24056574662009</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<ExtendedData>
+				<Data name="gtype">
+					<value>Shuttle Stop</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-97.11916025731307,32.7336828720988,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>C_TimberBrook_Parking_E</name>
+			<LookAt>
+				<longitude>-97.11920787511224</longitude>
+				<latitude>32.73383296159123</latitude>
+				<altitude>0</altitude>
+				<heading>20.54404702656051</heading>
+				<tilt>45.62676368037051</tilt>
+				<range>102.401967263719</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grn-pushpin</styleUrl>
+			<ExtendedData>
+				<Data name="gtype">
+					<value>Parking Entrance</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-97.11920787511224,32.73383296159123,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>Paths</name>
+		<Placemark>
+			<name>C_MeadowRun_419_TennisCourt_Pathway_1</name>
+			<styleUrl>#m_ylw-pushpin63</styleUrl>
+			<ExtendedData>
+				<Data name="gtype">
+					<value>Path</value>
+				</Data>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-97.12011312814815,32.73249798932916,0 -97.12003086219796,32.73250541652045,0 -97.11991086883653,32.73250672367438,0 -97.11981296464822,32.73254304440891,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>C_MeadowRun_419_TennisCourt_Pathway_2</name>
+			<styleUrl>#m_ylw-pushpin67</styleUrl>
+			<ExtendedData>
+				<Data name="gtype">
+					<value>Path</value>
+				</Data>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-97.12010968763863,32.73266048423697,0 -97.12002688117846,32.73266320666699,0 -97.12003086219796,32.73250541652045,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>C_TennisCourt_MAC_Pathway</name>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<ExtendedData>
+				<Data name="gtype">
+					<value>Path</value>
+				</Data>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-97.11986216809929,32.73226119123275,0 -97.11965255830258,32.73238810376272,0 -97.11954086864814,32.73245407069494,0 -97.11945828698292,32.73248809550551,0 -97.11933085037701,32.73245013537525,0 -97.11904869506385,32.73243325489553,0 -97.11873894091488,32.73242270469216,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>C_TennisCourt_UTABlvd_Pathway_1</name>
+			<styleUrl>#m_ylw-pushpin61</styleUrl>
+			<ExtendedData>
+				<Data name="gtype">
+					<value>Path</value>
+				</Data>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-97.11965255830258,32.73238810376272,0 -97.11981296464822,32.73254304440891,0 -97.11995269310535,32.73286362612512,0 -97.12008996452599,32.73318529020281,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>C_TennisCourt_UTABlvd_Pathway_2</name>
+			<styleUrl>#m_ylw-pushpin61</styleUrl>
+			<ExtendedData>
+				<Data name="gtype">
+					<value>Path</value>
+				</Data>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-97.12007641913669,32.73332185286296,0 -97.12006783456647,32.7333274396839,0 -97.11994524645795,32.73333346155857,0 -97.11988015468702,32.73323067341417,0 -97.1193754219486,32.73322497429916,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>C_MAC_TimberBrook_Pathway</name>
+			<styleUrl>#m_ylw-pushpin65</styleUrl>
+			<ExtendedData>
+				<Data name="gtype">
+					<value>Path</value>
+				</Data>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-97.11904869506385,32.73243325489553,0 -97.11904112304325,32.73261146265588,0 -97.11903240451771,32.73279083533079,0 -97.1192537475597,32.732797734239,0 -97.11938615358622,32.73280011082183,0 -97.11938697863661,32.73291244899028,0 -97.11938009431678,32.73306964222151,0 -97.1193754219486,32.73322497429916,0 -97.11937764850548,32.73333425221582,0 -97.11956713069644,32.7333402885319,0 -97.11956867233812,32.7333672460672,0 -97.11956577958915,32.7335289998456,0 -97.11956401905492,32.73367424931423,0 -97.11956032116056,32.73384646260822,0 -97.11951957005857,32.73384442381681,0 -97.11932654921338,32.73384125622751,0 -97.11920605652672,32.73383927830211,0 -97.11920787511224,32.73383296159123,0 -97.11920435732236,32.73369686485348,0 -97.11916025731307,32.7336828720988,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>C_TimberBrook_410_E2_Pathway</name>
+			<styleUrl>#m_ylw-pushpin5</styleUrl>
+			<ExtendedData>
+				<Data name="gtype">
+					<value>Path</value>
+				</Data>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-97.11925462260861,32.73273851553331,0 -97.1192537475597,32.732797734239,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>C_TimberBrook_UTABlvd_Junction_Pathway</name>
+			<styleUrl>#m_ylw-pushpin62</styleUrl>
+			<ExtendedData>
+				<Data name="gtype">
+					<value>Path</value>
+				</Data>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-97.11956401905492,32.73367424931423,0 -97.11969698886954,32.73382621905844,0 -97.11969850601379,32.73385191491519,0 -97.11969130286948,32.73398746121957,0 -97.11972470940432,32.7340765150761,0 -97.11968748273678,32.73414247601122,0 -97.1196846447108,32.73422355296096,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>C_TimberBrook_410_E1_Pathway</name>
+			<styleUrl>#m_ylw-pushpin3</styleUrl>
+			<ExtendedData>
+				<Data name="gtype">
+					<value>Path</value>
+				</Data>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-97.11938615358622,32.73280011082183,0 -97.11944399578438,32.73278576704641,0 -97.1194547140163,32.73274402605519,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>C_TimberBrook_408_E2_Pathway</name>
+			<styleUrl>#m_ylw-pushpin20</styleUrl>
+			<ExtendedData>
+				<Data name="gtype">
+					<value>Path</value>
+				</Data>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-97.11948235947152,32.73291214285599,0 -97.11938697863661,32.73291244899028,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>C_TimberBrook_408_E1_Pathway</name>
+			<styleUrl>#m_ylw-pushpin10</styleUrl>
+			<ExtendedData>
+				<Data name="gtype">
+					<value>Path</value>
+				</Data>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-97.11948015271494,32.73307442389486,0 -97.11938009431678,32.73306964222151,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>C_TimberBrook_402_E1_Pathway</name>
+			<styleUrl>#m_ylw-pushpin66</styleUrl>
+			<ExtendedData>
+				<Data name="gtype">
+					<value>Path</value>
+				</Data>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-97.11974974877143,32.73398842969687,0 -97.11969130286948,32.73398746121957,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>C_TimberBrook_404_E1_Pathway</name>
+			<styleUrl>#m_ylw-pushpin00</styleUrl>
+			<ExtendedData>
+				<Data name="gtype">
+					<value>Path</value>
+				</Data>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-97.11960543752591,32.73353943258427,0 -97.11956577958915,32.7335289998456,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>C_TimberBrook_404_E2_Pathway</name>
+			<styleUrl>#m_ylw-pushpin4</styleUrl>
+			<ExtendedData>
+				<Data name="gtype">
+					<value>Path</value>
+				</Data>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-97.11961268035684,32.73336513007867,0 -97.11956867233812,32.7333672460672,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>C_TimberBrook_400_E3_Pathway</name>
+			<styleUrl>#m_ylw-pushpin69</styleUrl>
+			<ExtendedData>
+				<Data name="gtype">
+					<value>Path</value>
+				</Data>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-97.11951344577277,32.73389305002444,0 -97.11951957005857,32.73384442381681,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>C_TimberBrook_400_E4_Pathway</name>
+			<styleUrl>#m_ylw-pushpin68</styleUrl>
+			<ExtendedData>
+				<Data name="gtype">
+					<value>Path</value>
+				</Data>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-97.11931667579482,32.73389700764346,0 -97.11932654921338,32.73384125622751,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>C_TimberBrook_400_E2_Pathway</name>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<ExtendedData>
+				<Data name="gtype">
+					<value>Path</value>
+				</Data>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-97.11951100331078,32.7341393069328,0 -97.11951313821014,32.73422147277405,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>C_TimberBrook_400_E1_Pathway</name>
+			<styleUrl>#m_ylw-pushpin610</styleUrl>
+			<ExtendedData>
+				<Data name="gtype">
+					<value>Path</value>
+				</Data>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-97.11931421057066,32.7341385226581,0 -97.1193173742884,32.73422147596779,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>C_TimberBrook_UTABlvd_SubJunction_Pathway</name>
+			<styleUrl>#msn_ylw-pushpin10</styleUrl>
+			<ExtendedData>
+				<Data name="gtype">
+					<value>Path</value>
+				</Data>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-97.11956032116056,32.73384646260822,0 -97.11969850601379,32.73385191491519,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>C_TimberBrook_402_E2_Pathway</name>
+			<styleUrl>#m_ylw-pushpin60</styleUrl>
+			<ExtendedData>
+				<Data name="gtype">
+					<value>Path</value>
+				</Data>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-97.11974789111196,32.73382816557181,0 -97.11969698886954,32.73382621905844,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>C_UTABlvd_Pathway</name>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<ExtendedData>
+				<Data name="gtype">
+					<value>Path</value>
+				</Data>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-97.11914909733524,32.73421654221023,0 -97.1193173742884,32.73422147596779,0 -97.11951313821014,32.73422147277405,0 -97.1196846447108,32.73422355296096,0 -97.12026597621232,32.73423975363445,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>C_TennisCourt_GreekRow_Pathway</name>
+			<styleUrl>#m_ylw-pushpin64</styleUrl>
+			<ExtendedData>
+				<Data name="gtype">
+					<value>Path</value>
+				</Data>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-97.11965255830258,32.73238810376272,0 -97.11937829541672,32.73229724925758,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>C_Canal</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<Data name="gtype">
+					<value>Waterbody</value>
+				</Data>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-97.12021642349276,32.73423839924819,0 -97.12019999393698,32.73415696872772,0 -97.12019355930764,32.73412049403271,0 -97.12015942387227,32.73389800991041,0 -97.12012771695127,32.73381210613611,0 -97.12006052624381,32.73356170924119,0 -97.12003553388402,32.73336685640268,0 -97.11998012005557,32.73315981817058,0 -97.11988783679276,32.73293050558716,0 -97.11981629008726,32.73276707407144,0 -97.11969158923041,32.73257799135739,0 -97.1195949055206,32.73249780855662,0 -97.11935203785362,32.73237766123693,0 -97.11930756711401,32.73235513758394,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

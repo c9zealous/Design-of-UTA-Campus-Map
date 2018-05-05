@@ -1,0 +1,928 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>E.kml</name>
+	<open>1</open>
+	<Style id="sh_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl10">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00aaff</color>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00ffff</color>
+		</LabelStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00ffff</color>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin00</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin11">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl00">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl2">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00aaff</color>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin10">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin100">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin11">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin01</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin00">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+		</LineStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin30">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin11</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl00</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin4">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00aaff</color>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin100</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin10">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin00</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin11</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin3">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00ffff</color>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin01">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+		</LineStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00ffff</color>
+		</LabelStyle>
+	</Style>
+	<Style id="s_ylw-pushpin00">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00aaff</color>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00aaff</color>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl3">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00aaff</color>
+		</LineStyle>
+	</Style>
+	<Folder>
+		<name>E</name>
+		<open>1</open>
+		<Folder>
+			<name>Polygons</name>
+			<open>1</open>
+			<Placemark>
+				<name>E2_ParkingLot</name>
+				<styleUrl>#msn_ylw-pushpin00</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-97.1163004979059,32.72854100961702,0 -97.11619566352256,32.72851455784393,0 -97.11611120516523,32.72851454007603,0 -97.11585934530974,32.7285145331259,0 -97.11572282741531,32.72851452499455,0 -97.11561833306472,32.72851453714338,0 -97.11535665198583,32.72851455536897,0 -97.11523071047031,32.7285145486679,0 -97.11508502132787,32.72851460352185,0 -97.11491705764702,32.72853223335205,0 -97.11491665692473,32.72867328288431,0 -97.11491599029482,32.72874368777978,0 -97.11491538684345,32.72881405031284,0 -97.11492573359728,32.72888449715073,0 -97.11520962137163,32.72887595287131,0 -97.11543913833452,32.72889335684112,0 -97.11556454625783,32.72889329709732,0 -97.11568966723178,32.72891080299871,0 -97.11588853970881,32.72891959568986,0 -97.11588825331603,32.72904283173892,0 -97.11588778006983,32.72911315610655,0 -97.11589806155034,32.72923636518896,0 -97.11612831089209,32.72923635831516,0 -97.11627483575741,32.72924515763255,0 -97.1163004979059,32.72854100961702,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>E1_CampusCenter</name>
+				<styleUrl>#m_ylw-pushpin3</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-97.11622672138549,32.7322302167847,0 -97.11625243005699,32.73220853578843,0 -97.11627224313808,32.73219009715963,0 -97.11627510760106,32.7321622422439,0 -97.11628858215315,32.73208647046091,0 -97.11629194966258,32.73200690803343,0 -97.11619803862607,32.73200758239581,0 -97.11613048661077,32.73200749852454,0 -97.11603611307932,32.73200371683512,0 -97.11594487002768,32.73200369904485,0 -97.1159049745828,32.73199565622323,0 -97.11588570221055,32.73202294050454,0 -97.11588591330165,32.73203867695511,0 -97.11588591249267,32.73205644228858,0 -97.11587193469249,32.73205586439809,0 -97.11584793850564,32.7320559788124,0 -97.11582677480303,32.73205597911983,0 -97.1157938043138,32.73205994822989,0 -97.11580853084548,32.73203008266756,0 -97.11577269015533,32.73203817732559,0 -97.11573741839354,32.73203817802761,0 -97.11570021162399,32.73203634465072,0 -97.11570020911225,32.73205041255916,0 -97.11569992934206,32.73206254726731,0 -97.1156998262278,32.73209471121466,0 -97.11569849619481,32.73211507806751,0 -97.11569945460487,32.73213294389068,0 -97.11569965672642,32.73214696068219,0 -97.11569347177337,32.7321923842755,0 -97.11573036662357,32.73219048959335,0 -97.11576563923838,32.7321904891038,0 -97.1158220752627,32.73218851037404,0 -97.11587325844633,32.73218856283307,0 -97.11589275864424,32.73222226887756,0 -97.11597274330833,32.73222225600308,0 -97.11606578682702,32.73222624119664,0 -97.11614735953303,32.73222823370062,0 -97.11623006015067,32.73222425983174,0 -97.11622672138549,32.7322302167847,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>E1_NanoLab</name>
+				<styleUrl>#m_ylw-pushpin5</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-97.1159470365629,32.73257898284403,0 -97.11602887740483,32.73255575910829,0 -97.11605795331748,32.73251400816411,0 -97.11600914818169,32.73250016215454,0 -97.11611511232373,32.7324605433505,0 -97.11608058058737,32.73245340677362,0 -97.11607104421657,32.73242698272254,0 -97.11607104421657,32.73242698272254,0 -97.11602815605492,32.73239655856439,0 -97.1160106780418,32.73237395483508,0 -97.11597307929195,32.73238897678419,0 -97.11593362843306,32.73243300548521,0 -97.1159224490365,32.73241807643694,0 -97.11586914772931,32.73238548450594,0 -97.11577329264934,32.732297412358,0 -97.11569536270501,32.73230044808244,0 -97.11559698936759,32.73229438503491,0 -97.11556495310097,32.73226773355748,0 -97.11551876236196,32.732223305311,0 -97.11537773976643,32.73209854150831,0 -97.11536513623342,32.73214272129283,0 -97.11535449554893,32.73223822551565,0 -97.11535267850013,32.73241405931492,0 -97.11535872947529,32.73256746921349,0 -97.11550531388346,32.73257034395734,0 -97.11566000760318,32.73257611964165,0 -97.11580238689123,32.73257035585326,0 -97.1159322106296,32.73257034687018,0 -97.1159470365629,32.73257898284403,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>E1_Parking_LotF7</name>
+				<styleUrl>#msn_ylw-pushpin10</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-97.11621082300701,32.7326494876483,0 -97.11599874873045,32.73264793398044,0 -97.11572770459081,32.73265214715357,0 -97.11548240600391,32.73264340734887,0 -97.11527517464435,32.73264870112011,0 -97.11527612693426,32.73256857541795,0 -97.11527974723242,32.73247703966908,0 -97.11527228805622,32.7323385050203,0 -97.11526565188504,32.7321150514652,0 -97.11525107413657,32.73203043871711,0 -97.1150477417342,32.73202625667065,0 -97.11483988806307,32.73203390399656,0 -97.11483680902252,32.73220030982093,0 -97.11484777651224,32.73239357352325,0 -97.11484497519881,32.73258253933699,0 -97.11483289500481,32.73269939665158,0 -97.11483598456644,32.73286075163811,0 -97.11483995545743,32.73308399023706,0 -97.11484733791085,32.73333065871741,0 -97.11485630865259,32.73340902085633,0 -97.11519140707692,32.73339569464384,0 -97.11552900692156,32.73339137924316,0 -97.11591653445584,32.73339629221201,0 -97.11612171919494,32.73339654818901,0 -97.11620610126177,32.73338743036434,0 -97.11621082300701,32.7326494876483,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>E2_TexasHall</name>
+				<styleUrl>#msn_ylw-pushpin2</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-97.11510912432813,32.72955484174587,0 -97.1150808823388,32.7296482004202,0 -97.11508880611564,32.72973600163792,0 -97.1150807601004,32.72984343703129,0 -97.11507935941462,32.72992749175636,0 -97.11508450987111,32.72998851607194,0 -97.11519427698293,32.72997103023304,0 -97.11527364327606,32.72999405389403,0 -97.11536706647371,32.7299868357506,0 -97.11546985628371,32.72998626404241,0 -97.11557194991711,32.72997933324961,0 -97.11565179603767,32.72999828949701,0 -97.11576898874851,32.72996216153815,0 -97.11582033516547,32.72996672088874,0 -97.11595863256549,32.72997660445992,0 -97.11595214656587,32.72986671157052,0 -97.11594473077309,32.72954628439779,0 -97.11585779315919,32.72951241603376,0 -97.1157393591326,32.729497012915,0 -97.11574429910752,32.7295356877085,0 -97.11510912432813,32.72955484174587,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>E2_DavisHall</name>
+				<styleUrl>#m_ylw-pushpin30</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-97.11486616358606,32.72904485966307,0 -97.11486577570054,32.7291056706611,0 -97.11477642838113,32.72911617890938,0 -97.11475795289402,32.72917648967347,0 -97.11476300962634,32.72923967222374,0 -97.11477514122785,32.72929005780969,0 -97.11487404241058,32.72928177865769,0 -97.11494579194654,32.72928169883959,0 -97.1150279527951,32.72928169410743,0 -97.11502921698664,32.72935704539471,0 -97.11508909727421,32.72938755279436,0 -97.11522873238302,32.72939509575954,0 -97.11535705330471,32.72939143752248,0 -97.11549405027429,32.72940083999824,0 -97.1154574321444,32.72933707294919,0 -97.11555677748798,32.72933487491969,0 -97.115649639936,32.72933428623894,0 -97.11564468922941,32.72917280402413,0 -97.11563511757682,32.72911226233327,0 -97.11544927274127,32.72912623407195,0 -97.11529519292337,32.72912623669358,0 -97.11531380211774,32.72900496839662,0 -97.11523058274086,32.72900817625554,0 -97.11511429445267,32.72899573212058,0 -97.11496781422001,32.72900064121541,0 -97.11498991615171,32.7290446689501,0 -97.11507316333814,32.7290535288369,0 -97.11486616358606,32.72904485966307,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Lines</name>
+			<Placemark>
+				<name>E2_PathDavisHal1ToNeddermanDr</name>
+				<styleUrl>#msn_ylw-pushpin</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-97.11520208062839,32.72900459584514,0 -97.11520386480375,32.72899509320591,0 -97.11524300807973,32.72895458831214,0 -97.11529707166038,32.72895051829512,0 -97.11536445824905,32.72894661561884,0 -97.11541605208228,32.72894510807111,0 -97.11554123690607,32.7289632664,0 -97.11550137360466,32.72896143104026,0 -97.11553750607177,32.72896372584467,0 -97.11559156480763,32.72896372374189,0 -97.11565412053315,32.72896036851726,0 -97.11568917553409,32.7289827539359,0 -97.11571761593208,32.72901347406246,0 -97.115734666113,32.72904498939462,0 -97.11571737424072,32.7290356746876,0 -97.1157262027117,32.729071744854,0 -97.11572683102821,32.72908183855634,0 -97.11573679695661,32.72910876030735,0 -97.11573793711312,32.72913679669984,0 -97.11573758630348,32.72913906709025,0 -97.11573883073676,32.72914994518926,0 -97.11574676565529,32.72916474428639,0 -97.11581768493201,32.72933309034319,0 -97.11586032519729,32.72934674077177,0 -97.11589865447758,32.72934624598281,0 -97.11595658728605,32.72933824654486,0 -97.11601156748009,32.72934669729398,0 -97.11604963386341,32.72934402604101,0 -97.11608705770723,32.72933828540401,0 -97.11614588545859,32.72933828366175,0 -97.11619681190945,32.72933621868793,0 -97.11631200746894,32.72933646522449,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>E2_DavisHallToFineArts</name>
+				<styleUrl>#m_ylw-pushpin4</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-97.11487770663146,32.72928321114223,0 -97.11485470227657,32.72940124419201,0 -97.11486005858781,32.72952821281591,0 -97.11481991803987,32.72976567105624,0 -97.11481730802177,32.72987280537324,0 -97.11481988083818,32.72993513587256,0 -97.11482102001128,32.72996865378637,0 -97.11482609225075,32.73008091670319,0 -97.11483127709572,32.73011967181079,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>E1_Path_CampusCenter_Entry2Path</name>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-97.11582045757646,32.73219461608637,0 -97.11583009831863,32.7322253189498,0 -97.1158198370694,32.7322814678729,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>E1_Path_CampusCenterToNanoFabPath</name>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-97.11581592372028,32.73205418275618,0 -97.11582581148794,32.7320221372482,0 -97.11573249602475,32.73202013339758,0 -97.11568197293093,32.73202022837288,0 -97.11561240200973,32.73203238208161,0 -97.11554772336601,32.73204451044951,0 -97.11544816537928,32.73204876692634,0 -97.1154187370657,32.73206525838712,0 -97.11539492624577,32.73209271377736,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>E1_Path_Parking</name>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-97.1162584585812,32.73229901243057,0 -97.11625359077547,32.73248034730506,0 -97.11625987745474,32.73265963232701,0 -97.11626297635662,32.73278999561322,0 -97.11624470224628,32.73288977036813,0 -97.11627918718013,32.73307455700378,0 -97.11626411754354,32.73318348312969,0 -97.11627357482183,32.73339502411959,0 -97.11627887150021,32.73348563224619,0 -97.11602451657085,32.73347951920083,0 -97.11579172014068,32.73347419203558,0 -97.11555925866676,32.73346497160245,0 -97.11543014787451,32.73347933601114,0 -97.11525594367039,32.7334454494582,0 -97.11508277584959,32.73345348534984,0 -97.11493571584033,32.73344122109709,0 -97.11479336546239,32.73343198706926,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>E1_Path_NanoFabToNeddermanDr</name>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-97.11534951008389,32.73227538355984,0 -97.11534706962871,32.73223721309245,0 -97.11534700852005,32.73220108483665,0 -97.11534479819181,32.73215898124717,0 -97.11534716416357,32.73209473461926,0 -97.11535679767687,32.73207057172056,0 -97.11539494449907,32.73208868875831,0 -97.11544012910672,32.73211595507812,0 -97.11548499231836,32.73214513478002,0 -97.11551857664388,32.73217101217801,0 -97.1155984423346,32.73223541120512,0 -97.11561947927012,32.73224736990009,0 -97.11570998558049,32.73227342684025,0 -97.11582461131324,32.73227945980468,0 -97.11593759316224,32.73228562187197,0 -97.11607216773355,32.73227969445662,0 -97.11617931906895,32.73229203029754,0 -97.11625978872806,32.73230028087279,0 -97.11631446211746,32.73230052178634,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>E1_Path_NanoFabEntry1ToParking</name>
+				<styleUrl>#msn_ylw-pushpin</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-97.11533815902457,32.73232219148636,0 -97.11531146214739,32.73233265268934,0 -97.11531360445005,32.73243677336586,0 -97.11531379177134,32.7325358359994,0 -97.11531663513954,32.73258507395889,0 -97.11532923657305,32.7326198088084,0 -97.11556054868193,32.73261686627143,0 -97.11583724553329,32.73263163874333,0 -97.11612081503272,32.73261591360121,0 -97.11625907017735,32.73261516503305,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>E1_Path_NanoFab_Entry2</name>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-97.11571469182645,32.73230151680252,0 -97.11571465054303,32.73227139374739,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>E1_Path_CampusCenterEntry3ToNanoFabPath</name>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-97.11597834338024,32.73222608190962,0 -97.11598568127505,32.73226958091656,0 -97.11598573370549,32.73228769047235,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>E2_PathToDavisEntry</name>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-97.11576143816383,32.7291933451505,0 -97.11565942759509,32.72918750594057,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>E2_Path_DavisToHospital</name>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-97.11626963781735,32.72933103100994,0 -97.11626681600997,32.72976518162815,0 -97.11626877496934,32.73013905863358,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>E2_Path_TexasHall_DavisHall</name>
+				<styleUrl>#msn_ylw-pushpin1</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-97.11506531037382,32.7298534294175,0 -97.11503886429583,32.72983354159195,0 -97.11502351487034,32.72982177048317,0 -97.11501019901155,32.72981265639807,0 -97.11495311434555,32.7297631483568,0 -97.11490074924971,32.72972194521036,0 -97.11497972109352,32.72963337509943,0 -97.11502500144788,32.72954449820978,0 -97.11496806254337,32.72943476213485,0 -97.11490799444805,32.72932892331328,0 -97.11487239220186,32.72931107160282,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>E2_Path_TexasHall_FineArts</name>
+				<styleUrl>#msn_ylw-pushpin3</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-97.115066691916,32.72984717406524,0 -97.11505672955383,32.72989765645533,0 -97.11495653398295,32.72989794945362,0 -97.11486567525958,32.72988446096853,0 -97.1148290497063,32.72988717658876,0 -97.114823023694,32.72993426832501,0 -97.11483530716654,32.72995891725113,0 -97.1148255697418,32.73000580854244,0 -97.11482858097426,32.73004385629582,0 -97.11483544405087,32.73007258418299,0 -97.1148314681483,32.73009376851888,0 -97.11483660066774,32.73011489615678,0 -97.11482197822818,32.73012233083774,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>E2_TexasHallBridge</name>
+				<styleUrl>#msn_ylw-pushpin0</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-97.11484883191297,32.72958257243919,0 -97.11482140998807,32.72955933656902,0 -97.11481243683305,32.72949759185276,0 -97.11477860710581,32.72947733828828,0 -97.1147689259129,32.72947388739603,0 -97.11473255110317,32.72947676830869,0 -97.11467047295403,32.72948314872713,0 -97.11467047295403,32.72948314872713,0 -97.1147733408465,32.72948509607889,0 -97.11476098777274,32.72947222050814,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>E2_Path_TexasHal_Nedderman</name>
+				<styleUrl>#msn_ylw-pushpin1</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-97.11627017794763,32.72989070090518,0 -97.11620441314824,32.72988508793348,0 -97.11612398208737,32.72984763255374,0 -97.11607635317316,32.72983757816429,0 -97.11600067687306,32.72984718841681,0 -97.11598001294584,32.72986083434701,0 -97.11573000657816,32.72979852620713,0 -97.11572254556097,32.72982158539236,0 -97.11569380122887,32.72988108891828,0 -97.11569249898965,32.72989337654575,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>E2_TexasHall</name>
+				<styleUrl>#msn_ylw-pushpin1</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-97.11506531037382,32.7298534294175,0 -97.11505821482933,32.72992060703594,0 -97.1151134437654,32.7299936143947,0 -97.11525945703437,32.73000263634002,0 -97.11550167468602,32.73000699559592,0 -97.11566549693427,32.7300137865976,0 -97.11577895858723,32.72998054423456,0 -97.11584544322137,32.72999179562271,0 -97.11596071320344,32.73000417193306,0 -97.11605050391023,32.72998848165142,0 -97.11610349550998,32.72999514292646,0 -97.11618365408347,32.72998279559464,0 -97.11622176063307,32.72998018873145,0 -97.11624320586166,32.72998017493899,0 -97.11623851035544,32.72997229942849,0 -97.11626780778752,32.72998648365982,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>E1_NeddermanCrossing</name>
+				<styleUrl>#msn_ylw-pushpin1</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-97.11640299055996,32.73231399892718,0 -97.11631310780352,32.73230045442447,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Points</name>
+			<Placemark>
+				<name>E1_NanoFab_Entry2</name>
+				<LookAt>
+					<longitude>-97.11551334929024</longitude>
+					<latitude>32.73213337236721</latitude>
+					<altitude>0</altitude>
+					<heading>1.285579282272123e-005</heading>
+					<tilt>0</tilt>
+					<range>95.46780029104818</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-97.11571457583817,32.7322969146104,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>E1_CampusCenter_Entry2</name>
+				<LookAt>
+					<longitude>-97.11578540753357</longitude>
+					<latitude>32.7321750776654</latitude>
+					<altitude>3.661820583219412</altitude>
+					<heading>-0.0001338967986859977</heading>
+					<tilt>0</tilt>
+					<range>93.12075467740432</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-97.11582199447929,32.73220200757056,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>E1_CampusCenter_Entry3</name>
+				<LookAt>
+					<longitude>-97.11579958026761</longitude>
+					<latitude>32.73221595302871</latitude>
+					<altitude>1.358091118772175</altitude>
+					<heading>-0.0001415600094508588</heading>
+					<tilt>0</tilt>
+					<range>95.42447054664795</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-97.11598097452885,32.73223672156657,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>E1_CampusCenter_Entry1</name>
+				<LookAt>
+					<longitude>-97.11580273177511</longitude>
+					<latitude>32.73194726730338</latitude>
+					<altitude>0</altitude>
+					<heading>-0.0001432628419710068</heading>
+					<tilt>0</tilt>
+					<range>97.13832796469821</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-97.11581599313824,32.73205238427273,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>E2_TexasHall_Entry2</name>
+				<LookAt>
+					<longitude>-97.11586564197097</longitude>
+					<latitude>32.72969887142968</latitude>
+					<altitude>11.84817233419797</altitude>
+					<heading>0.7394538702980975</heading>
+					<tilt>0</tilt>
+					<range>154.6063020016876</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-97.11598005871288,32.72986233499206,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>E2_TexasHall_Entry1</name>
+				<LookAt>
+					<longitude>-97.1150637684091</longitude>
+					<latitude>32.73003191328422</latitude>
+					<altitude>2.119858228398882</altitude>
+					<heading>0.9099543117114705</heading>
+					<tilt>89.90367138592977</tilt>
+					<range>43.30207193856987</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin00</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-97.11506522584884,32.72985267347217,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>E2_DavisHall_Entry1</name>
+				<LookAt>
+					<longitude>-97.1148705073106</longitude>
+					<latitude>32.72931093136457</latitude>
+					<altitude>13.46039243268968</altitude>
+					<heading>174.4609843312212</heading>
+					<tilt>8.412128872416576</tilt>
+					<range>0.739555921711485</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin00</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-97.11487231269864,32.72931119078518,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>E2_DavisHall_Entry2</name>
+				<LookAt>
+					<longitude>-97.11519890205588</longitude>
+					<latitude>32.7290156604056</latitude>
+					<altitude>3.664757464932257</altitude>
+					<heading>17.9619414642597</heading>
+					<tilt>71.34087030447861</tilt>
+					<range>18.15681988449322</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin00</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-97.11521055263405,32.72898590097971,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>E2_DavisHall_Entry3</name>
+				<LookAt>
+					<longitude>-97.11572603817497</longitude>
+					<latitude>32.7292037039375</latitude>
+					<altitude>4.009988829905866</altitude>
+					<heading>99.79824270560745</heading>
+					<tilt>88.30147638297389</tilt>
+					<range>21.84506071191046</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin00</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-97.11567146967241,32.7291883727029,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>

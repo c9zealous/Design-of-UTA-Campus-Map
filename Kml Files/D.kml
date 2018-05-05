@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>UTA section D.kml</name>
+	<open>1</open>
+	<Style id="sn_ylw-pushpin4">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff03eaff</color>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00aaff</color>
+		</LineStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin40</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin01">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff3d8dff</color>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin30">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin01</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff3d8dff</color>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin00">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff33f9ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff33f9ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff80f7ff</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin40">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin3">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00aaff</color>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin300">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin00</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin3">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff3d8dff</color>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff03eaff</color>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff3d8dff</color>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin4">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff80f7ff</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>D_MAC_E1</name>
+		<LookAt>
+			<longitude>-97.11663413239836</longitude>
+			<latitude>32.73189737494936</latitude>
+			<altitude>0</altitude>
+			<heading>-8.782001234842314</heading>
+			<tilt>43.61371670945905</tilt>
+			<range>84.75643485631157</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#m_ylw-pushpin1</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-97.11663413239836,32.73189737494936,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>D_Greek Row_P2</name>
+		<styleUrl>#msn_ylw-pushpin30</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-97.11871452009338,32.73067514883814,0 -97.11787887979558,32.73057521937115,0 -97.11762112373081,32.7305634853498,0 -97.11698585341013,32.73054470149096,0 -97.11639571574936,32.73058714379114,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>D_Greek Row_Connecting_P1_P2</name>
+		<styleUrl>#msn_ylw-pushpin30</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-97.11783911695974,32.73071596540755,0 -97.11787887979558,32.73057521937115,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>D_Greek Row_P1</name>
+		<styleUrl>#msn_ylw-pushpin30</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-97.1164030335966,32.73071775579547,0 -97.11668229828503,32.73071167979049,0 -97.11720795656756,32.7307070326429,0 -97.11737329531589,32.73070595378396,0 -97.11749670172931,32.73070595367299,0 -97.11783911695974,32.73071596540755,0 -97.11814451896305,32.73075488626965,0 -97.1182938519549,32.73078144598713,0 -97.11873966621525,32.73085044579169,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>D_Trinity House_WNeddermanDr_Connecting</name>
+		<styleUrl>#msn_ylw-pushpin3</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-97.11684106250817,32.73032019823515,0 -97.11684106250817,32.73032019823515,0 -97.11683142660921,32.73028697105629,0 -97.11673977057966,32.73028697076613,0 -97.11663092909581,32.73028697040819,0 -97.11655932287479,32.73028697016478,0 -97.1164874722751,32.73028151924953,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>D_Trinity House_E1</name>
+		<LookAt>
+			<longitude>-97.11684106250817</longitude>
+			<latitude>32.73032019823515</latitude>
+			<altitude>0</altitude>
+			<heading>0.167338244076337</heading>
+			<tilt>46.85659688724423</tilt>
+			<range>156.0262525261917</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#m_ylw-pushpin1</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-97.11684106250817,32.73032019823515,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>D_W Nedderman Dr_P1</name>
+		<styleUrl>#msn_ylw-pushpin3</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-97.1164869140985,32.72944851196961,0 -97.11648268272121,32.72965114734899,0 -97.11648508443578,32.72996877536983,0 -97.1164874722751,32.73028151924953,0 -97.11649843913962,32.73053645357197,0 -97.11650342266178,32.73082271718982,0 -97.11648507821711,32.73112883208407,0 -97.11648475488221,32.73142269856196,0 -97.11649042941421,32.7318651106665,0 -97.11663413239836,32.73189737494936,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>D_MAC_WNeddermanDr_Connecting_P1_P2</name>
+		<styleUrl>#msn_ylw-pushpin3</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-97.11641761913302,32.73191536523954,0 -97.11663413239836,32.73189737494936,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>D_W Nedderman Dr_Connecting_P1_P2</name>
+		<styleUrl>#msn_ylw-pushpin3</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-97.1163996532633,32.73231366888779,0 -97.11645132926984,32.73232298847486,0 -97.11645740002579,32.73205920608123,0 -97.11663413239836,32.73189737494936,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>D_Trinity House_Greek row_Connecting</name>
+		<styleUrl>#msn_ylw-pushpin3</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-97.11762112373081,32.7305634853498,0 -97.11762679646905,32.73041390256894,0 -97.11751231134402,32.73027007906011,0 -97.11685420863806,32.73027950192773,0 -97.11684106250817,32.73032019823515,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>D_Greek row_Football field_Connecting</name>
+		<styleUrl>#msn_ylw-pushpin30</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-97.1182938519549,32.73078144598713,0 -97.11839344554979,32.73114595593232,0 -97.11858999612178,32.73136721286101,0 -97.1188237948283,32.73153469569817,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>D_ParkingLot_MAC_PL1</name>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-97.11713978432398,32.73072434088921,0 -97.11691775815892,32.73072253341719,0 -97.11671131583761,32.73072028363264,0 -97.11661081435368,32.7307387960973,0 -97.11655316377886,32.7307985296251,0 -97.1165280955788,32.73085560391362,0 -97.11651275557719,32.73091855779305,0 -97.11651956169122,32.7309833254045,0 -97.11652201746749,32.73105232349865,0 -97.11652251459437,32.7311465357675,0 -97.11653318702651,32.73117886978997,0 -97.11652717543109,32.73123061711022,0 -97.11653210649736,32.73127536208104,0 -97.11661058703183,32.73133532284643,0 -97.11666802645266,32.73133383442909,0 -97.11681002507388,32.73133069487467,0 -97.11688453115764,32.7313347473228,0 -97.11697482915358,32.7313389999434,0 -97.11706963778364,32.73133658759544,0 -97.11707487092139,32.73128863167371,0 -97.11711458530347,32.73128237513409,0 -97.1171494564091,32.73128375933823,0 -97.11717595665141,32.73125998173919,0 -97.11717292219302,32.73111670720187,0 -97.11719026638598,32.73107361615374,0 -97.11719259369691,32.73102223284912,0 -97.11719151311067,32.7309598337995,0 -97.11719191504875,32.73092920843318,0 -97.11719462264466,32.73088554410903,0 -97.11719588318196,32.73082835310881,0 -97.11719817980435,32.73077807627828,0 -97.11719922028573,32.73074747402909,0 -97.11719812693572,32.73072385949563,0 -97.11713978432398,32.73072434088921,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>D_ParkingLot_TrinityHouse_PL1</name>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-97.1176547755172,32.72983255096761,0 -97.11738626247643,32.72983018517695,0 -97.11728101040373,32.7298332921083,0 -97.11715870547516,32.72983204969745,0 -97.11698459455354,32.72983638275529,0 -97.11675097797406,32.72983532320587,0 -97.11659910906222,32.72983592320444,0 -97.11650953543378,32.7298336230332,0 -97.11650767318291,32.7300259081556,0 -97.11651369887412,32.73017350769516,0 -97.11651399698519,32.73025773963119,0 -97.11653158650572,32.73025598719236,0 -97.11661444162587,32.73026906895603,0 -97.11674168527543,32.73026199169854,0 -97.11704826666505,32.73025785860307,0 -97.11741237194899,32.7302606552193,0 -97.11752095143034,32.73026504923287,0 -97.11758556382561,32.73023448077543,0 -97.11761809409673,32.73017652375408,0 -97.11765839205236,32.73011394872373,0 -97.1176547755172,32.72983255096761,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>D_ParkingLot_TrinityHouse_PL2</name>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-97.11763456012641,32.73041400645306,0 -97.1180685483719,32.73041814882429,0 -97.11811000530958,32.73039907527642,0 -97.11810978010102,32.73034819360385,0 -97.11815695889624,32.73033772797886,0 -97.11815891071969,32.73030519398694,0 -97.1181641656446,32.73025687318827,0 -97.11816056504316,32.73021713965427,0 -97.11805333838849,32.7301651519417,0 -97.11799520280077,32.73014380576533,0 -97.11784937948535,32.73015012461374,0 -97.11771620489189,32.73014124244671,0 -97.11766695284827,32.73014349120566,0 -97.11764455332578,32.7301523580898,0 -97.11760508540328,32.73024064666215,0 -97.11762119608568,32.73035238169015,0 -97.11763456012641,32.73041400645306,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>D_ParkingLot_Davis Hall_PL1</name>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-97.11737497944621,32.72982771321789,0 -97.11736583650979,32.72967159886409,0 -97.11732033495908,32.72956841672798,0 -97.11725759161112,32.72949389415844,0 -97.11720268725259,32.7294936486238,0 -97.11708508393096,32.72949323350509,0 -97.11692530817706,32.72949153248774,0 -97.11675140439373,32.72949343804331,0 -97.11653581298188,32.72949334647014,0 -97.11650809197248,32.72954867927642,0 -97.1165099789264,32.72983098346688,0 -97.1168408864373,32.72983390368328,0 -97.1170795767971,32.72983038539181,0 -97.11737497944621,32.72982771321789,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>D_Connecting path_Sec C_MAC</name>
+		<styleUrl>#msn_ylw-pushpin3</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-97.11873894091488,32.73242270469216,0 -97.11845638646088,32.73241732493204,0 -97.11817454885633,32.7324144734208,0 -97.11736120584378,32.73239802479532,0 -97.11696686978509,32.73229633864773,0 -97.11666891274166,32.73227526070038,0 -97.11659120525731,32.73199094029255,0 -97.11663413239836,32.73189737494936,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>D_MAC</name>
+		<styleUrl>#msn_ylw-pushpin300</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-97.11663413239836,32.73189737494936,0 -97.11662854670458,32.73197883863845,0 -97.11666350683703,32.73199076752135,0 -97.11666694793331,32.73208427949533,0 -97.11668270040011,32.73220315243554,0 -97.11669468360891,32.73225469818298,0 -97.11679869219344,32.73224701081944,0 -97.11681138490368,32.73223184837847,0 -97.1168797093803,32.73223245752628,0 -97.11690035619152,32.73221308881642,0 -97.11690211906667,32.73218276450811,0 -97.11709271822593,32.73218577506155,0 -97.11709088058055,32.73222524433626,0 -97.11708898220195,32.73226872642397,0 -97.11720511869352,32.73226925065545,0 -97.11732569075707,32.73226522167803,0 -97.11745418507371,32.73226459396073,0 -97.1175240982044,32.73226524283596,0 -97.11752624062849,32.73237883364477,0 -97.11765701472581,32.73238434603486,0 -97.11786564700968,32.73238934416302,0 -97.11795408307746,32.73238949355836,0 -97.11801216679884,32.73239097818509,0 -97.11803707180185,32.73234846865419,0 -97.11817349558399,32.73235467921098,0 -97.1183030609801,32.73236544527011,0 -97.11848037773653,32.73235657148975,0 -97.11848947276795,32.73215763013898,0 -97.11853146584228,32.73214405513355,0 -97.11854225914951,32.73199548031147,0 -97.11851629396621,32.73194599639725,0 -97.11850708700649,32.73189303410258,0 -97.11848559666733,32.73176581800553,0 -97.11845259941372,32.73173014158114,0 -97.11848169831953,32.73138537562222,0 -97.11847099872713,32.73130486018159,0 -97.11838120460403,32.73118205276886,0 -97.11798933733596,32.73118011724676,0 -97.11755799469925,32.73118205986395,0 -97.117328606434,32.73118789269515,0 -97.11731508021182,32.73141933399022,0 -97.11695933723406,32.73141908316119,0 -97.11688508669113,32.73140620444982,0 -97.1168323973117,32.73140894733435,0 -97.11672058855849,32.73138956701206,0 -97.11668058517381,32.7313938566768,0 -97.11666214082153,32.73154875243883,0 -97.11663413239836,32.73189737494936,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>D_Trinity House</name>
+		<styleUrl>#msn_ylw-pushpin2</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-97.11684106250817,32.73032019823515,0 -97.11653863556209,32.73032286226282,0 -97.11653676110367,32.73044473180911,0 -97.1165380941363,32.73045384316353,0 -97.11751860501997,32.73044821232674,0 -97.11752230806063,32.73032128177256,0 -97.11684106250817,32.73032019823515,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>D_Path Park</name>
+		<styleUrl>#msn_ylw-pushpin0</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-97.11839344554979,32.73114595593232,0 -97.11814471389394,32.73116279821553,0 -97.11814451896305,32.73075488626965,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>D_Physical Education</name>
+		<styleUrl>#msn_ylw-pushpin1</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-97.11724234317629,32.73106021439514,0 -97.11724234541872,32.73111116378254,0 -97.11726133274451,32.73112396688618,0 -97.11788593466928,32.73113402202817,0 -97.11788980192451,32.73111166963601,0 -97.11793431899811,32.73110930937946,0 -97.11806268730162,32.73111065373878,0 -97.11811752429368,32.73111126900942,0 -97.11812752398578,32.73079890638571,0 -97.11811907880669,32.73079153307822,0 -97.11789818236782,32.73078001884448,0 -97.11789472666351,32.73074383883313,0 -97.11780250089991,32.73073821756546,0 -97.11760604304401,32.7307294456279,0 -97.1173672676351,32.73072771137647,0 -97.11725206906603,32.73072001279174,0 -97.11724730160907,32.73090685594582,0 -97.1172060218904,32.73092082619824,0 -97.11720923304473,32.73098946444839,0 -97.11724062228873,32.73098844982945,0 -97.11723727326628,32.73102024120557,0 -97.11724234317629,32.73106021439514,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>D_Physical Education_Greek Row_Connecting_1</name>
+		<styleUrl>#msn_ylw-pushpin3</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-97.11780250089991,32.73073821756546,0 -97.11783911695974,32.73071596540755,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>D_Physical Education_E2</name>
+		<LookAt>
+			<longitude>-97.11780250089991</longitude>
+			<latitude>32.73073821756546</latitude>
+			<altitude>0</altitude>
+			<heading>-4.886745998913347</heading>
+			<tilt>36.70946815760089</tilt>
+			<range>144.3638701839853</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#m_ylw-pushpin1</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-97.11780250089991,32.73073821756546,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>D_Physical Education_Greek Row_Connecting_2</name>
+		<styleUrl>#msn_ylw-pushpin3</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-97.11737329531589,32.73070595378396,0 -97.1173672676351,32.73072771137647,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>D_Physical Education_E1</name>
+		<LookAt>
+			<longitude>-97.1173672676351</longitude>
+			<latitude>32.73072771137647</latitude>
+			<altitude>0</altitude>
+			<heading>-4.886745998913347</heading>
+			<tilt>36.70946815760089</tilt>
+			<range>144.3638701839853</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#m_ylw-pushpin1</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-97.1173672676351,32.73072771137647,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>D_WNeddermanDr_Connecting_P1_P2_2</name>
+		<styleUrl>#msn_ylw-pushpin3</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-97.11648475488221,32.73142269856196,0 -97.11641706899627,32.73142038572565,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>D_Greek Row_W Nedderman Dr_Connecting</name>
+		<styleUrl>#msn_ylw-pushpin3</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-97.11650342266178,32.73082271718982,0 -97.11654900987433,32.7307725670777,0 -97.11658697037638,32.73073985284218,0 -97.11663012261985,32.73072320655493,0 -97.11668229828503,32.73071167979049,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>
